@@ -1,5 +1,5 @@
 {
-  "name": "moolex/aliyun-sls-sdk-php",
+  "name": "mayunfeng/aliyun-log-php-sdk",
   "require": {
     "php": ">=5.2",
     "ext-json": "*",
